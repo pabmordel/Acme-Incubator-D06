@@ -1,0 +1,56 @@
+# validation_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+javax.validation.constraints.AssertFalse.message = Debe ser falso
+javax.validation.constraints.AssertTrue.message = Debe ser cierto
+javax.validation.constraints.DecimalMax.message = Debe ser menor o igual a {value}
+javax.validation.constraints.DecimalMin.message = Debe ser mayor o igual a {value}
+javax.validation.constraints.Digits.message = Debe tener {integer} dígitos y {fraction} decimales
+javax.validation.constraints.Email.message = No es un e-mail correcto
+javax.validation.constraints.Future.message = Debe ser en el futuro
+javax.validation.constraints.Max.message = Debe ser menor o igual a {value}
+javax.validation.constraints.Min.message = Debe ser mayor o igual a {value}
+javax.validation.constraints.NotBlank.message = No puede estar en blanco
+javax.validation.constraints.NotEmpty.message = No puede estar vacío
+javax.validation.constraints.NotNull.message = No puede ser nulo
+javax.validation.constraints.Null.message = Debe ser nulo
+javax.validation.constraints.Past.message = Debe estar en el pasado
+javax.validation.constraints.Pattern.message = Debe encajar en el patrón "{regexp}"
+javax.validation.constraints.Size.message = Debe tener entre {min} y {max} elementos
+
+org.hibernate.validator.constraints.CreditCardNumber.message = Número de tarjeta incorrecto
+org.hibernate.validator.constraints.Length.message = La longitud debe estar entre {min} y {max}
+org.hibernate.validator.constraints.Range.message = Debe estar entre {min} y {max}
+org.hibernate.validator.constraints.SafeHtml.message = El contenido HTML puede ser inseguro
+org.hibernate.validator.constraints.ScriptAssert.message = La expresión "{script}" debe devolver true
+org.hibernate.validator.constraints.URL.message = No es una URL correcta
+
+acme.validation.decimal-max = Debe ser menor o igual que {0}
+acme.validation.decimal-min = Debe ser mayor o igual que {0}
+acme.validation.digits = Debe tener {0} dígitos y {1} decimales
+acme.validation.max = Debe ser menor o igual que {0}
+acme.validation.min = Debe ser mayor o igual que {0}
+acme.validation.pattern = Debe encajar en el patrón "{0}"
+acme.validation.length = La longitud debe ser entre {0} y {1}
+acme.validation.range = Debe estar entre {0} y {1}
+acme.validation.script = El script "{0}" debe devolver true
+
+acme.validation.deadline = Debe ser en el futuro
+acme.validation.checkbox = Debe marcar la casilla
+acme.validation.deadline.challenge = Debe ser al menos un mes en el futuro
+acme.validation.money = Debe estar en EUROS (€)
+acme.validation.mode = No puede ser publicado hasta que la suma del presupuesto de las actividades del programa iguale a la de la ronda de inversión
+acme.validation.spamm = Por favor no publique spam en el sistema
+acme.validation.noact = No puede ser publicado sin actividades
+acme.validation.just = Las aplicaciones rechazadas deben estar justificadas
+acme.validation.ticket = Debe ser las 3 primeras letras de tu sector en mayúscula - los 2 últimos dígitos del año - 6 números
+acme.validation.ticketsize = Debe seguir el patrón: XXX-00-000000
+acme.validation.ticket1 = Su sector solo tiene una letra, el ticker debe comenzar con {Nombre del sector} seguido de "XX" - los 2 últimos dígitos del año - 6 números
+acme.validation.ticket2 = Su sector solo tiene dos letras, el ticker debe comenzar con {Nombre del sector} seguido de "X" - los 2 últimos dígitos del año - 6 números

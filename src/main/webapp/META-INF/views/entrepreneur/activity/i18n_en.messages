@@ -1,0 +1,15 @@
+entrepreneur.activity.list.label.title = Title
+entrepreneur.activity.list.label.startdate = Start date
+entrepreneur.activity.list.label.enddate = End date
+entrepreneur.activity.list.label.budget = Budget
+
+entrepreneur.activity.form.label.title = Title:
+entrepreneur.activity.form.label.startdate = Start date:
+entrepreneur.activity.form.label.enddate = End date:
+entrepreneur.activity.form.label.budget = Budget:
+
+entrepreneur.activity.form.button.create = Create
+entrepreneur.activity.form.button.update = Update
+entrepreneur.activity.form.button.delete = Delete
+
+authenticated.activity.form.button.return = Return

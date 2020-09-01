@@ -1,0 +1,12 @@
+administrator.notice.list.label.title = Title
+administrator.notice.list.label.creationdate = Creation date
+
+administrator.notice.form.label.header = Header:
+administrator.notice.form.label.title = Title:
+administrator.notice.form.label.creationdate = Creation date:
+administrator.notice.form.label.deadline = Deadline:
+administrator.notice.form.label.body = Body:
+administrator.notice.form.label.links = Additional Links:
+administrator.notice.form.label.check = Are you sure you want to create this notice?
+administrator.notice.form.button.create = Create
+administrator.notice.form.button.return = Return

@@ -1,0 +1,15 @@
+authenticated.inquiry.list.label.title = Título
+authenticated.inquiry.list.label.creationdate = Fecha de creación
+
+authenticated.inquiry.form.label.title = Título:
+authenticated.inquiry.form.label.creationdate = Fecha de creación:
+authenticated.inquiry.form.label.deadline = Fecha límite:
+authenticated.inquiry.form.label.description = Descripción:
+authenticated.inquiry.form.label.intervalmin = Dinero mínimo:
+authenticated.inquiry.form.label.intervalmax = Dinero máximo:
+authenticated.inquiry.form.label.email = Email:
+
+administrator.inquiry.form.button.update = Actualizar
+administrator.inquiry.form.button.delete = Borrar
+
+authenticated.inquiry.form.button.return = Volver

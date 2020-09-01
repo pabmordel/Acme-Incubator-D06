@@ -1,0 +1,19 @@
+administrator.toolrecord.list.label.title = Título
+administrator.toolrecord.list.label.sector = Sector
+administrator.toolrecord.list.label.source = Fuente
+administrator.toolrecord.list.label.stars = Estrellas
+
+administrator.toolrecord.form.label.title = Título:
+administrator.toolrecord.form.label.sector = Sector:
+administrator.toolrecord.form.label.inventor = Inventor:
+administrator.toolrecord.form.label.description = Descripción:
+administrator.toolrecord.form.label.web = Web:
+administrator.toolrecord.form.label.email = Email:
+administrator.toolrecord.form.label.source = Fuente:
+administrator.toolrecord.form.label.stars = Estrellas:
+
+administrator.toolrecord.form.button.create = Crear
+administrator.toolrecord.form.button.delete = Borrar
+administrator.toolrecord.form.button.update = Actualizar
+
+administrator.toolrecord.form.button.return = Volver

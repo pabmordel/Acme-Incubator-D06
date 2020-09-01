@@ -1,0 +1,11 @@
+authenticated.activity.list.label.title = Título
+authenticated.activity.list.label.startdate = Fecha de inicio
+authenticated.activity.list.label.enddate = Fecha de fin
+authenticated.activity.list.label.budget = Presupuesto
+
+authenticated.activity.form.label.title = Título:
+authenticated.activity.form.label.startdate = Fecha de inicio:
+authenticated.activity.form.label.enddate = Fecha de fin:
+authenticated.activity.form.label.budget = Presupuesto:
+
+authenticated.activity.form.button.return = Volver

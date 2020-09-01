@@ -1,0 +1,15 @@
+authenticated.investment.list.label.title = Title
+authenticated.investment.list.label.creationdate = Creation date
+authenticated.investment.list.label.kind = Kind
+authenticated.investment.list.label.amount = Amount
+
+authenticated.investment.form.label.ticket = Ticket:
+authenticated.investment.form.label.title = Title:
+authenticated.investment.form.label.creationdate = Creation date:
+authenticated.investment.form.label.kind = Kind:
+authenticated.investment.form.label.amount = Amount:
+authenticated.investment.form.label.description =  Description:
+authenticated.investment.form.label.link =  Aditional Information:
+authenticated.investment.form.label.programme =  Work Programme
+
+authenticated.investment.form.button.return = Return

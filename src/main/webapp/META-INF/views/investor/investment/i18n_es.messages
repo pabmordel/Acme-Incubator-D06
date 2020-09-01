@@ -1,0 +1,19 @@
+investor.investment.list.label.title = Título
+investor.investment.list.label.creationdate = Fecha de creación
+investor.investment.list.label.kind = Tipo
+investor.investment.list.label.amount = Cantidad
+
+investor.investment.form.label.ticket = Ticker:
+investor.investment.form.label.title = Título:
+investor.investment.form.label.creationdate = Fecha de creación:
+investor.investment.form.label.kind = Tipo:
+investor.investment.form.label.amount = Cantidad:
+investor.investment.form.label.description =  Descripción:
+investor.investment.form.label.link =  Información Adicional:
+investor.investment.form.label.programme =  Programa de trabajo
+investor.investment.form.label.mode = Estado (Final o Privado)
+
+
+investor.investment.form.label.createapplication = Crear Aplicación
+
+investor.investment.form.button.return = Volver

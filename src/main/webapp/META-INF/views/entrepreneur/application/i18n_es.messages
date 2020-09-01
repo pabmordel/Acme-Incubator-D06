@@ -1,0 +1,17 @@
+entrepreneur.application.list.label.offer = Oferta
+entrepreneur.application.list.label.creationdate = Fecha de creación
+entrepreneur.application.list.label.investment = Ronda de Inversión
+entrepreneur.application.list.label.ticket = Ticker
+
+entrepreneur.application.form.label.investment = Ronda de Inversión:
+entrepreneur.application.form.label.ticket = Ticker:
+entrepreneur.application.form.label.creationdate = Fecha de creación:
+entrepreneur.application.form.label.statement = Declaración:
+entrepreneur.application.form.label.offer = Oferta:
+entrepreneur.application.form.label.investor = Inversor:
+entrepreneur.application.form.label.status = Estado:
+entrepreneur.application.form.label.justification = Justificación:
+
+entrepreneur.application.form.button.update = Actualizar
+
+entrepreneur.application.form.button.return = Volver

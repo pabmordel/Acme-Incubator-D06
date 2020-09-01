@@ -1,0 +1,15 @@
+anonymous.toolrecord.list.label.title = Title
+anonymous.toolrecord.list.label.sector = Sector
+anonymous.toolrecord.list.label.source = Source
+anonymous.toolrecord.list.label.stars = Stars
+
+anonymous.toolrecord.form.label.title = Title:
+anonymous.toolrecord.form.label.sector = Sector:
+anonymous.toolrecord.form.label.inventor = Inventor:
+anonymous.toolrecord.form.label.description = Description:
+anonymous.toolrecord.form.label.web = Web:
+anonymous.toolrecord.form.label.email = Email:
+anonymous.toolrecord.form.label.source = Source:
+anonymous.toolrecord.form.label.stars = Stars:
+
+anonymous.toolrecord.form.button.return = Return

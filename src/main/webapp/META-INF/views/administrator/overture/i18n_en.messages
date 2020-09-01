@@ -1,0 +1,14 @@
+
+administrator.overture.form.label.title = Title:
+administrator.overture.form.label.creationdate = Creation date:
+administrator.overture.form.label.deadline = Deadline:
+administrator.overture.form.label.description = Description:
+administrator.overture.form.label.intervalmin = Minimum money:
+administrator.overture.form.label.intervalmax = Maximum money:
+administrator.overture.form.label.email = Email:
+
+administrator.overture.form.button.create = Create
+administrator.overture.form.button.update = Update
+administrator.overture.form.button.delete = Delete
+
+administrator.overture.form.button.return = Return

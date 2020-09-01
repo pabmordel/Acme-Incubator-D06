@@ -1,0 +1,15 @@
+authenticated.technologyRecord.list.label.title = Title
+authenticated.technologyRecord.list.label.sector = Sector
+authenticated.technologyRecord.list.label.source = Source
+authenticated.technologyRecord.list.label.stars = Stars
+
+authenticated.technologyrecord.form.label.title = Title:
+authenticated.technologyrecord.form.label.sector = Sector:
+authenticated.technologyrecord.form.label.inventor = Inventor:
+authenticated.technologyrecord.form.label.description = Description:
+authenticated.technologyrecord.form.label.web = Web:
+authenticated.technologyrecord.form.label.email = Email:
+authenticated.technologyrecord.form.label.source = Source:
+authenticated.technologyrecord.form.label.stars = Stars:
+
+authenticated.technologyrecord.form.button.return = Return

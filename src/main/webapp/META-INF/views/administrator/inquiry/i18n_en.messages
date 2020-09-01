@@ -1,0 +1,14 @@
+
+administrator.inquiry.form.label.title = Title:
+administrator.inquiry.form.label.creationdate = Creation date:
+administrator.inquiry.form.label.deadline = Deadline:
+administrator.inquiry.form.label.description = Description:
+administrator.inquiry.form.label.intervalmin = Minimum money:
+administrator.inquiry.form.label.intervalmax = Maximum money:
+administrator.inquiry.form.label.email = Email:
+
+administrator.inquiry.form.button.create = Create
+administrator.inquiry.form.button.update = Update
+administrator.inquiry.form.button.delete = Delete
+
+administrator.inquiry.form.button.return = Return

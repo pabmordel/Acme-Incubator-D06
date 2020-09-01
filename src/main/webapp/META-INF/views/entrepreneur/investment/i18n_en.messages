@@ -1,0 +1,23 @@
+entrepreneur.investment.list.label.title = Title
+entrepreneur.investment.list.label.creationdate = Creation date
+entrepreneur.investment.list.label.kind = Kind
+entrepreneur.investment.list.label.amount = Amount
+
+entrepreneur.investment.form.label.ticket = Ticker:
+entrepreneur.investment.form.label.title = Title:
+entrepreneur.investment.form.label.creationdate = Creation date:
+entrepreneur.investment.form.label.kind = Kind:
+entrepreneur.investment.form.label.amount = Amount:
+entrepreneur.investment.form.label.description =  Description:
+entrepreneur.investment.form.label.link =  Aditional Information:
+entrepreneur.investment.form.label.programme =  Work Programme
+entrepreneur.investment.form.label.mode = Mode (Final or Private)
+entrepreneur.investment.form.label.private = PRIVATE
+entrepreneur.investment.form.label.published = PUBLISHED
+
+entrepreneur.investment.form.button.create = Create
+entrepreneur.investment.form.button.update = Update
+entrepreneur.investment.form.button.delete = Delete
+entrepreneur.investment.form.label.createactivity = Create Activity
+
+entrepreneur.investment.form.button.return = Return

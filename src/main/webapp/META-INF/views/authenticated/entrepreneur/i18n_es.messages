@@ -1,0 +1,9 @@
+authenticated.entrepreneur.form.label.name = Nombre
+authenticated.entrepreneur.form.label.sector = Sector
+authenticated.entrepreneur.form.label.qualification = Calificación
+authenticated.entrepreneur.form.label.skills = Habilidades
+
+authenticated.entrepreneur.form.label.create = Registrar
+authenticated.entrepreneur.form.label.update = Actualizar
+
+authenticated.entrepreneur.form.button.return = Volver
